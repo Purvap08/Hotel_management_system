@@ -655,7 +655,6 @@ while True:
                 else:
                     print("Invalid Username")
                     print("_____________________________________________________________")
-                #print("Logging out from owner successfully")  
                 break
         case 2:
             print("Thank you")
